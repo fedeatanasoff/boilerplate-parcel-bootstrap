@@ -1,4 +1,6 @@
-<h1> Boilerplate con Parcel, Sass y Bootstrap v4 </h1>
+## Boilerplate con Parcel, Sass y Bootstrap v4
+
+simple boilerplate con Parcel JS como bundler, Sass y Bootstrap v4
 
 - npm install -g parcel-bundler
 - npm install
